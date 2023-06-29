@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/joaov/OneDrive/Documentos/KiCad/6.0/footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "MODULO_ESP32")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MODULO_ESP32.pretty")(options "")(descr ""))
+)
